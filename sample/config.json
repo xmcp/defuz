@@ -1,0 +1,11 @@
+{
+    "seed": "",
+    "timeout": 1000,
+    "cnt": 20,
+    "gen": "gen.py",
+    "stds": [
+        "std_python.py",
+        "std_cstdio.exe",
+        "std_iostream.exe"
+    ]
+}
